@@ -11,12 +11,6 @@ This is a simple e-commerce website . The website includes features like product
 
 ## Screenshots
 
-### Home Page
-![Home Page](screenshots/home.png)
+![Image 1](Image1.png)
 
-### Product Details Page
-![Product Details Page](screenshots/product-details.png)
-
-### Shopping Cart
-![Shopping Cart](screenshots/cart.png)
-
+![Image 2](Image2.png)
