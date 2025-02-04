@@ -1,6 +1,6 @@
 # E-Commerce Website 
 
-This is a simple e-commerce website . The website includes features like product listing, product details, and a shopping cart. The project is built using HTML, CSS, and JavaScript, with data fetched from a mock API.
+This is a simple e-commerce website . The website includes features like product listing, product details, and a shopping cart. The project is built using HTML, CSS, and JavaScript, with data fetched from a mock API .
 
 ## Features
 
